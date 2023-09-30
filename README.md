@@ -1,7 +1,6 @@
 # Countries App
 
-This Countries app is a part of studying.
-To see the countries list you have to create/login to the account. When you are logged in you can search for a country you are interested in and explore information about it by clicking on a country card. Moreover, you choose your favorite countries and save them
+Discover our Web Shop App, your go-to destination for online shopping. Browse a wide range of products, add your favorites to the cart, and enjoy a seamless shopping experience. Shop smart and effortlessly with us today!
 
 ## Technologies used
 
@@ -15,6 +14,13 @@ Built with:
 
 
 ## Setup and usage
+If you want to run this app on your local storage run these comands: 
+````
+git clone https://github.com/AntBezr/ReduxStoreApp.git
+cd ReduxStoreApp
+npm i
+npm start
+````
 
 ### Live page
 

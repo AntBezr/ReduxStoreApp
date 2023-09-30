@@ -1,10 +1,13 @@
-import React from 'react';
 import './App.css';
+
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import StoreNavbar from './components/StoreNavbar';
-import List from './components/List';
+
 import Cart from './components/Cart';
+import ErorrPage from './components/ErorrPage';
 import Landing from './components/Landing';
+import List from './components/List';
+import React from 'react';
+import StoreNavbar from './components/StoreNavbar';
 
 function App() {
   return (
@@ -15,6 +18,7 @@ function App() {
           <Route path='/' element={<Landing />} />
           <Route path='/shop' element={<List />} />
           <Route path='/cart' element={<Cart />} />
+          <Route path='*' element={<ErorrPage />} />
         </Routes>
       </BrowserRouter>
     </div>

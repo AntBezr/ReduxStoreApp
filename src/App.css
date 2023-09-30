@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-
 }
 
 .App-logo {
@@ -15,3 +14,37 @@
 .Corouselbg {
   background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 1) 7%, rgb(220, 220, 220) 95%);
 }
+
+/*======================
+    404 page
+=======================*/
+
+.page_404 {
+  padding: 40px 0;
+
+}
+
+.page_404 img {
+  width: 100%;
+}
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+}
+
+.four_zero_four_bg h1 {
+  font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+  font-size: 80px;
+}
+
+
+.contant_box_404 {
+  margin-top: -50px;
+}
+
+/*====================== */
