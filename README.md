@@ -36,13 +36,17 @@ To start this app at local machine you need to use two commands:
 [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-## Screenshoot
+## Screenshoot 
 
-<img >
+![Screenshot](https://github.com/AntBezr/recipe/assets/117649417/d26e5897-1c0a-4be1-bb5f-405f675a83a5)
+![Screenshot](https://github.com/AntBezr/recipe/assets/117649417/cc3a71c6-06b6-47c7-aed0-35057d8e5f88)
+![Screenshot](https://github.com/AntBezr/recipe/assets/117649417/92248a3c-c207-47a7-ac7b-9c303230728d)
+
+
 ## Authors and acknowledgment
 
 Author
 Anton Bezruchenkov
 
 - GitHub @AntBezr
-- [LinkedIn](https://www.linkedin.com/in/anton-bezruchenkov-a8609617a/)
+- [LinkedIn](https://www.linkedin.com/in/antonbezruchenkov/)

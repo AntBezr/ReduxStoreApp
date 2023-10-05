@@ -17,23 +17,21 @@ const CarouselComponent = () => {
       <Carousel.Item>
         <Image src={FirstImg} fluid text="First slide" className='corouselImg' />
         <Carousel.Caption>
-          <h3 >Wear what ever you like</h3>
+          <h3 >Wear whatever you like</h3>
 
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <Image src={SecondImg} fluid text="Second slide" className='corouselImg' />
         <Carousel.Caption>
-          <h3>Second slide label</h3>
+          <h3>Be yourself</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <Image src={ThirdImg} fluid text="Third slide" className='corouselImg' />
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+          <h3>Be. Create. Love</h3>
+
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
