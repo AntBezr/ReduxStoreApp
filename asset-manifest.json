@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReduxStoreApp/static/css/main.017e6235.css",
-    "main.js": "/ReduxStoreApp/static/js/main.42f684cc.js",
-    "static/media/second.jpg": "/ReduxStoreApp/static/media/second.b5a4b5e2070ca4b041a5.jpg",
-    "static/media/first.jpg": "/ReduxStoreApp/static/media/first.e9b1fc7705e97c2f6eeb.jpg",
-    "static/media/third.jpg": "/ReduxStoreApp/static/media/third.5c0988de2d28751b43e2.jpg",
-    "index.html": "/ReduxStoreApp/index.html",
-    "main.017e6235.css.map": "/ReduxStoreApp/static/css/main.017e6235.css.map",
-    "main.42f684cc.js.map": "/ReduxStoreApp/static/js/main.42f684cc.js.map"
+    "main.css": "/ReduxStoreApp/home/static/css/main.017e6235.css",
+    "main.js": "/ReduxStoreApp/home/static/js/main.ecc8f2ab.js",
+    "static/media/second.jpg": "/ReduxStoreApp/home/static/media/second.b5a4b5e2070ca4b041a5.jpg",
+    "static/media/first.jpg": "/ReduxStoreApp/home/static/media/first.e9b1fc7705e97c2f6eeb.jpg",
+    "static/media/third.jpg": "/ReduxStoreApp/home/static/media/third.5c0988de2d28751b43e2.jpg",
+    "index.html": "/ReduxStoreApp/home/index.html",
+    "main.017e6235.css.map": "/ReduxStoreApp/home/static/css/main.017e6235.css.map",
+    "main.ecc8f2ab.js.map": "/ReduxStoreApp/home/static/js/main.ecc8f2ab.js.map"
   },
   "entrypoints": [
     "static/css/main.017e6235.css",
-    "static/js/main.42f684cc.js"
+    "static/js/main.ecc8f2ab.js"
   ]
 }
