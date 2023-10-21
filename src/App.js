@@ -1,6 +1,6 @@
 import './App.css';
 
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 
 import Cart from './components/Cart';
 import ErorrPage from './components/ErorrPage';
@@ -12,7 +12,7 @@ import StoreNavbar from './components/StoreNavbar';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <StoreNavbar />
         <Routes>
           <Route path='/' element={<Landing />} />
@@ -20,7 +20,7 @@ function App() {
           <Route path='/cart' element={<Cart />} />
           <Route path='*' element={<ErorrPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

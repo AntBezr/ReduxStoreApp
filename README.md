@@ -1,4 +1,4 @@
-# Countries App
+# Redux Fake Online Store
 
 Discover our Web Shop App, your go-to destination for online shopping. Browse a wide range of products, add your favorites to the cart, and enjoy a seamless shopping experience. Shop smart and effortlessly with us today!
 
@@ -50,3 +50,6 @@ Anton Bezruchenkov
 
 - GitHub @AntBezr
 - [LinkedIn](https://www.linkedin.com/in/antonbezruchenkov/)
+
+## Badges 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AntBezr_ReduxStoreApp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AntBezr_ReduxStoreApp)
